@@ -2,9 +2,14 @@ baseURL = "https://office-tech-flow.netlify.app/"
 languageCode = "en-us"
 title = "Office Tech Flow"
 theme = "hugo-theme-stack"
+mainSections = ["blog"]
 
 [params]
   description = "Your premier source for reviews and recommendations on the best smart office gadgets and equipment."
+
+[params.homeInfoParams]
+  Title = "Welcome to Office Tech Flow"
+  Content = "Your premier source for reviews and recommendations on the best smart office gadgets and equipment."
 
 [params.social]
   github = "https://github.com/gabec05/revenue-engine-zerocost"
