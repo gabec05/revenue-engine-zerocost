@@ -1,21 +1,10 @@
 baseURL = "https://office-tech-flow.netlify.app/"
 languageCode = "en-us"
 title = "Office Tech Flow"
-theme = "PaperMod"
+theme = "hugo-theme-stack"
 
 [params]
   description = "Your premier source for reviews and recommendations on the best smart office gadgets and equipment."
-  defaultTheme = "light"
-  disableThemeToggle = false
-  ShowShareButtons = true
-  ShowReadingTime = true
-  ShowToc = true
-  TocOpen = true
-  keywords = ["home office", "gadgets", "tech", "productivity"]
-  
-[params.homeInfoParams]
-  Title = "Welcome to Office Tech Flow"
-  Content = "Your premier source for reviews and recommendations on the best smart office gadgets and equipment."
 
-[params.socialIcons]
+[params.social]
   github = "https://github.com/gabec05/revenue-engine-zerocost"
