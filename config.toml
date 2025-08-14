@@ -1,4 +1,4 @@
-baseURL = "https://your-site-name.netlify.app/"
+baseURL = "https://office-tech-flow.netlify.app/"
 languageCode = "en-us"
 title = "Office Tech Flow"
 theme = "ananke"
